@@ -1,4 +1,6 @@
+# RapidApi Hotel Project
 
+## Bu proje RapidApi de bulunan Booking.COM üzerinden farklı ülkelerden farklı otellere ait bilgiler consume edilerek oluşturulmştur.
 
 ![1](https://github.com/fthatmc/RapidApiProject-SonaHotel-/assets/136472585/3a51d889-1d26-4d48-bfa5-914b5af8bb05)
 
